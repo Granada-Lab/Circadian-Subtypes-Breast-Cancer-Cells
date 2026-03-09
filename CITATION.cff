@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated publication."
+title: "Circadian-Subtypes-Breast-Cancer-Cells"
+repository-code: "https://github.com/Granada-Lab/Circadian-Subtypes-Breast-Cancer-Cells"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Circadian clock features define novel subtypes among breast cancer cells and shape drug sensitivity"
+  journal: "Molecular Systems Biology"
+  year: 2025
+  volume: 21
+  pages: "315"
+  doi: "10.1038/s44320-025-00092-7"
+  authors:
+    - family-names: Ector
+      given-names: C
+    - family-names: Didier
+      given-names: J
+    - family-names: De Landtsheer
+      given-names: S
+    - family-names: Nordentoft
+      given-names: MS
+    - family-names: Schmal
+      given-names: C
+    - family-names: Keilholz
+      given-names: U
+    - family-names: Herzel
+      given-names: H
+    - family-names: Kramer
+      given-names: A
+    - family-names: Sauter
+      given-names: T
+    - family-names: Granada
+      given-names: "Adrián E."
